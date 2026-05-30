@@ -49,5 +49,5 @@ A licença MIT aplica-se estritamente à **minha implementação de código** (a
 
 ---
 <p align="center">
-Desenvolvido por @T4vinh0h com dedicação e muito café sem açúcar ☕
+Desenvolvido por @T4vinh0h(github) com dedicação e muito café sem açúcar ☕
 </p>
