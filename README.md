@@ -34,10 +34,9 @@ A melhor forma de aprender é fazendo. Por isso, este espaço é dedicado à **r
 
 ## 📂 Páginas Replicadas
 
-*Abaixo, você pode listar as páginas que já clonou ou pretende clonar:*
 
-* [ ] **[Nome da Empresa/Página 1]** - [Link para o Design Original]
-* [ ] **[Nome da Empresa/Página 2]** - [Link para o Design Original]
+* [ ] **[Yamaha Motor Co., Ltd.]** - [https://www.yamaha-motor.com.br/]
+* [ ] **[CVC Brasil Operadora e Agência de Viagens S.A.]** - [https://www.cvc.com.br/]
 
 ---
 
@@ -49,5 +48,5 @@ A licença MIT aplica-se estritamente à **minha implementação de código** (a
 
 ---
 <p align="center">
-Desenvolvido por @T4vinh0h(github) com dedicação e muito café sem açúcar ☕
+Desenvolvido por Otávio Santos/@T4vinh0h(github) com dedicação e muito café sem açúcar ☕
 </p>
